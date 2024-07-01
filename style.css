@@ -120,7 +120,7 @@ label{
     }
     .media{
         height: 30px;
-        width: 25%;
+        width: 50%;
         background-color: #FAF400;
         position: relative;
         bottom: 30px;
@@ -129,7 +129,7 @@ label{
 
     .forte{
         height: 30px;
-        width: 25%;
+        width: 100%;
         background-color: #00FF85;
         position: relative;
         bottom: 30px;
